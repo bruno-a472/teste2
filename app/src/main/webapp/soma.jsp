@@ -15,7 +15,7 @@
     </head>
     <body>
         <h1>Soma</h1>
-        <form action="index.jsp" method="post">
+        <form action="soma.jsp" method="post">
             <input type="number" name="numA" />
             <input type="number" name="numB" />
             <button type="submit">Somar</button>
